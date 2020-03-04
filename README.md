@@ -1,6 +1,6 @@
 I'm proud to announce that this article is now [part of the official docs](https://facebook.github.io/react-native/docs/next/optimizing-flatlist-configuration).
 
-(*Before going on, check out my newest [React/React Native open source project](https://github.com/filipemerker/react-instagram-media)!*)
+
 
 # How to improve RN's FlatList performance?
 
